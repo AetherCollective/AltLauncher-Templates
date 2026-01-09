@@ -1,6 +1,6 @@
 ---
 name: Game Request
-about: Describe this issue template's purpose here.
+about: Request support for your game
 title: Game Request
 labels: ''
 assignees: AetherCollective
